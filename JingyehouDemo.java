@@ -1,12 +1,9 @@
-Demo class {
-    public String name;
-    public int value;
+JingyehouDemo class {
     public static void main(String[] args) {
-        Demo demo = new Demo();
+        jingyehouDemo demo = new JingyehouDemo();
         demo.run();
     }
     public run() {
-
         System.out.println("jingyehou");
     }
 }
