@@ -1,4 +1,5 @@
 
+
 public class Player extends Observable {
 	private String name;
 	private Color color;
@@ -7,4 +8,17 @@ public class Player extends Observable {
 public class Demo {
     public String name;
     public int value;
+
+Demo class {
+    public String name;
+    public int value;
+    public static void main(String[] args) {
+        Demo demo = new Demo();
+        demo.run();
+    }
+    public run() {
+
+        System.out.println("jingyehou");
+    }
+
 }
