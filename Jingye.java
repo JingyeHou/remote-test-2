@@ -1,0 +1,3 @@
+Jingye class {
+    String name;
+}
