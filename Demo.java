@@ -1,3 +1,4 @@
+
 Demo class {
     public String name;
     public int value;
@@ -10,3 +11,7 @@ Demo class {
         System.out.println("jingyehou");
     }
 }
+
+hahahahahha
+haha
+
